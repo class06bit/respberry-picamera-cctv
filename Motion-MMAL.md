@@ -156,3 +156,4 @@ bcm2835-v4l2
 
 [https://pimylifeup.com/raspberry-pi-webcam-server/comment-page-2/](https://pimylifeup.com/raspberry-pi-webcam-server/comment-page-2/)
 
+[https://m.blog.naver.com/PostView.nhn?blogId=scw0531&logNo=220653503111&targetKeyword=&targetRecommendationCode=1](https://m.blog.naver.com/PostView.nhn?blogId=scw0531&logNo=220653503111&targetKeyword=&targetRecommendationCode=1)
